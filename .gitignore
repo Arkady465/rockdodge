@@ -1,2 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+packages/
+Build/
+*.xcworkspace
+*.xcodeproj
+*.sln
+.vs/
+.vscode/
+.idea/
+
+# macOS
 .DS_Store
-**/.DS_Store
